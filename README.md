@@ -1,4 +1,4 @@
-A Admin Dashboard created using CSS - Grid. 
+An Admin Dashboard created using CSS - Grid. 
 
 Live preview link: 📍https://master-1-maker.github.io/Admin-Dashboard/📍
 
